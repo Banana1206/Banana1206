@@ -1,9 +1,10 @@
-# 💫Hey 🤓
+# 💫Hey!!!
 
 🤔Are you think that mathematics is so crazy and wonderful?
 
-🥳Hello, I'm Tri. I'm currently a final year student studying Data Science at UIT-VNUHCM in Vietnam. I'm really intrigued by Data Science, Artificial Intelligence, Machine Learning, Big Data, and Software Development.🤩
-📫 How to reach me: nguyentri120602@gmail.com
+🙋Hello, I'm Tri. I'm currently a final year student studying Data Science at UIT-VNUHCM in Vietnam. I'm really intrigued by Data Science, Artificial Intelligence, Machine Learning, Big Data, and Software Development.🌟\
+\
+📫  Feel free to reach out to me at nguyentri120602@gmail.com.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092542304911) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tri-nguyen-99137421b/) 
